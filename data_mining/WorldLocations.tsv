@@ -1,0 +1,621 @@
+City	Country	Population	Latitude	Longitude	Full Location
+karachi	pakistan	15500000	24.8667795	67.0311286	karachi,pakistan
+shanghai	china	14900000	31.2253441	121.4888922	shanghai,china
+mumbai	india	13900000	18.9321862	72.8308337	mumbai,india
+bombay	india	13900000	18.9321862	72.8308337	bombay,india
+beijing	china	12460000	39.9059631	116.391248	beijing,china
+delhi	india	12100000	28.6517178	77.2219388	delhi,india
+buenos aires	argentina	11655000	-34.6075797	-58.4375796	buenos aires,argentina
+manila metro	philippines	11550000	14.5906216	120.9799696	manila metro,philippines
+seoul	south korea	11153000	37.5666791	126.9782914	seoul,south korea
+sao paulo	brazil	11038000	-23.5506506	-46.6333823	sao paulo,brazil
+moscow	russia	10524000	55.7506828	37.6174976	moscow,russia
+jakarta	indonesia	10100000	-6.1753941	106.827183	jakarta,indonesia
+istanbul	turkey	9560000	41.0096334	28.9651646	istanbul,turkey
+bangkok	thailand	9100000	13.7538929	100.8160803	bangkok,thailand
+mexico city	mexico	8841000	19.4326009	-99.1333415	mexico city,mexico
+tokyo	japan	8653000	34.2255804	139.294774527	tokyo,japan
+tehran	iran	8430000	35.7006177	51.401375	tehran,iran
+new york city	usa	8364000	40.7305991	-73.9865811	new york city,usa
+kinshasa	congo d.r.	8200000	-11.6429113	27.5426004	kinshasa,congo d.r.
+dhaka	bangladesh	7940000	23.7593572	90.3788136	dhaka,bangladesh
+lagos	nigeria	7938000	6.4550575	3.3941795	lagos,nigeria
+cairo	egypt	7764000	30.0488185	31.2436663	cairo,egypt
+lima	peru	7606000	-12.0621064	-77.0365255	lima,peru
+london	uk	7557000	51.5073219	-0.1276473	london,uk
+tianjin	china	7500000	39.1235635	117.1980785	tianjin,china
+bogota	colombia	7320000	4.5980478	-74.0760866	bogota,colombia
+ho chi minh city	vietnam	7100000	10.7758439	106.7017555	ho chi minh city,vietnam
+hong kong	china	7055000	22.2793278	114.1628131	hong kong,china
+guangzhou	china	6458000	23.1387267	113.319321	guangzhou,china
+dongguan	china	6446000	23.0449275	113.7524781	dongguan,china
+lahore	pakistan	6100000	31.5195822	74.326297	lahore,pakistan
+rio de janeiro	brazil	6093000	-22.9110136	-43.2093726	rio de janeiro,brazil
+baghdad	iraq	6050000	33.3024248	44.3787992	baghdad,iraq
+bangalore	india	5840000	12.9791198	77.5912997	bangalore,india
+surat	india	5390000	21.1864607	72.8081281	surat,india
+santiago	chile	5278000	-33.4377967	-70.650445	santiago,chile
+kolkata	india	5100000	22.5677459	88.3476023	kolkata,india
+shenyang	china	5090000	41.8045293	123.4277858	shenyang,china
+chongqing	china	5087000	29.5585712	106.5492822	chongqing,china
+singapore	singapore	4988000	1.2904753	103.8520359	singapore,singapore
+riyadh	saudi arabia	4950000	24.6319692	46.7150648	riyadh,saudi arabia
+luanda	angola	4799000	-8.8271655	13.2436665	luanda,angola
+harbin	china	4755000	45.7656666	126.6160584	harbin,china
+st petersburg	russia	4661000	59.9387318	30.3162286	st petersburg,russia
+chennai	india	4600000	13.0801721	80.2838331	chennai,india
+ahmadabad	india	4525000	23.0216238	72.5797068	ahmadabad,india
+wuhan	china	4500000	30.5960213	114.2992796	wuhan,china
+yangon	myanmar	4468000	16.647565	96.1129218	yangon,myanmar
+yangon	burma	4468000	16.647565	96.1129218	yangon,burma
+sydney	australia	4400000	-33.8548156	151.2164539	sydney,australia
+chengdu	china	4334000	30.6765553	104.0612783	chengdu,china
+shenzhen	china	4320000	22.5442673	114.0545327	shenzhen,china
+nanjing	china	4150000	32.0609736	118.7916458	nanjing,china
+alexandria	egypt	4110000	31.199004	29.894378	alexandria,egypt
+johannesburg	south africa	3888000	-26.2049999	28.049722	johannesburg,south africa
+jeddah	saudi arabia	3856000	21.5822247	39.1640396	jeddah,saudi arabia
+los angeles	usa	3834000	34.054935	-118.2444759	los angeles,usa
+abidjan	ivory coast	3800000	5.4091179	-4.0422098	abidjan,ivory coast
+ankara	turkey	3764000	39.9215219	32.8537929	ankara,turkey
+casablanca	morocco	3673000	33.5949733	-7.6188008	casablanca,morocco
+yokohama	japan	3655000	35.444991	139.636768	yokohama,japan
+hyderabad	india	3637000	17.3616227	78.4747305	hyderabad,india
+melbourne	australia	3635000	-37.8142175	144.9631608	melbourne,australia
+kano	nigeria	3626000	11.9918671	8.5303654	kano,nigeria
+busan	south korea	3600000	35.1799528	129.0752365	busan,south korea
+kabul	afghanistan	3586000	34.5260131	69.1776476	kabul,afghanistan
+changchun	china	3581000	43.8844498	125.3178222	changchun,china
+cape town	south africa	3497000	-33.9289919	18.417396	cape town,south africa
+guiyang	china	3450000	26.5814112	106.7052544	guiyang,china
+berlin	germany	3432000	52.5170365	13.3888599	berlin,germany
+hangzhou	china	3408000	30.2489468	120.2052547	hangzhou,china
+addis ababa	ethiopia	3385000	9.0107934	38.7612525	addis ababa,ethiopia
+pune	india	3337000	18.5203062	73.8543185	pune,india
+pyongyang	north korea	3255000	39.0194741	125.753388	pyongyang,north korea
+madrid	spain	3213000	40.4167047	-3.7035824	madrid,spain
+nairobi	kenya	3130000	-1.2832532	36.8172449	nairobi,kenya
+kanpur	india	3100000	26.4609135	80.3217588	kanpur,india
+kunming	china	3100000	25.0515153	102.7017638	kunming,china
+surabaya	indonesia	3100000	-7.2459716	112.7378266	surabaya,indonesia
+jaipur	india	3050000	26.9161293	75.8204056	jaipur,india
+salvador da bahia	brazil	2998000	-12.9822498	-38.4812771	salvador da bahia,brazil
+santo domingo	dominican republic	2989000	18.4801972	-69.9421109	santo domingo,dominican republic
+mashhad	iran	2910000	36.2974945	59.6059232	mashhad,iran
+chicago	usa	2853000	41.8755546	-87.6244211	chicago,usa
+zibo	china	2850000	36.8047833	118.0444472	zibo,china
+kiev	ukraine	2820000	50.4501071	30.5240501	kiev,ukraine
+durg	india	2810000	21.2009417	81.3943241839	durg,india
+huludao	china	2787000	40.7515443	120.8404789	huludao,china
+caracas	venezuela	2762000	10.506098	-66.9146016	caracas,venezuela
+qingdao	china	2755000	36.0895093	120.3497193	qingdao,china
+changsha	china	2744000	28.1873765	112.9835823	changsha,china
+rome	italy	2732000	41.85233365	12.6308541512	rome,italy
+fuzhou	china	2710000	26.0771539	119.2914774	fuzhou,china
+fujian	china	2710000	26.5450001	117.842778	fujian,china
+quezon city	philippines	2680000	14.6509905	121.0486155	quezon city,philippines
+xian	china	2670000	34.2191582	109.110194631	xian,china
+port harcourt	nigeria	2667000	4.7676576	7.0188527	port harcourt,nigeria
+osaka	japan	2647000	34.704365	135.501887	osaka,japan
+incheon	south korea	2630000	37.4693697	126.6613778	incheon,south korea
+shijiazhuang	china	2630000	38.10071215	114.600869097	shijiazhuang,china
+taipei	taiwan	2620000	25.0375167	121.5637	taipei,taiwan
+zhengzhou	china	2600000	34.7591877	113.6524076	zhengzhou,china
+chittagong	bangladesh	2580000	22.4237755	91.7236738793	chittagong,bangladesh
+toronto	canada	2571000	43.6529206	-79.3849007	toronto,canada
+ibadan	nigeria	2550000	7.3786064	3.8969928	ibadan,nigeria
+taiyuan	china	2550000	37.8561856	112.5561744	taiyuan,china
+cali	colombia	2525000	3.4319329	-76.5113047	cali,colombia
+daegu	south korea	2512000	35.8404121	128.5586643	daegu,south korea
+bandung	indonesia	2510000	-6.9344693	107.6049539	bandung,indonesia
+faisalabad	pakistan	2510000	31.4220558	73.0923253	faisalabad,pakistan
+fortaleza	brazil	2506000	-3.7304511	-38.5217988	fortaleza,brazil
+baoshan	china	2500000	24.9905994	99.0719905929	baoshan,china
+dar es salaam	tanzania	2498000	-6.8142736	39.2803756	dar es salaam,tanzania
+zhongshan	china	2495000	22.5213807	113.3656141	zhongshan,china
+xiamen	china	2490000	24.497442	118.1355644	xiamen,china
+chaoyang	china	2471000	41.5754767	120.4390738	chaoyang,china
+belo horizonte	brazil	2453000	-19.9227317	-43.9450947	belo horizonte,brazil
+nanning	china	2450000	22.832567	108.3027254	nanning,china
+havana	cuba	2430000	23.1379911	-82.3658561	havana,cuba
+nagpur	india	2420000	21.1498134	79.0820556	nagpur,india
+omdurman	sudan	2400000	15.6445536	32.4777311	omdurman,sudan
+suzhou	china	2383000	31.2984758	120.622239	suzhou,china
+aleppo	syria	2360000	36.197971	37.1656697	aleppo,syria
+lucknow	india	2342000	26.8381	80.9346001	lucknow,india
+izmir	turkey	2330000	38.4153421	27.144474	izmir,turkey
+linyi	china	2300000	37.1909965	116.8628596	linyi,china
+dalian	china	2270000	38.920716	121.6388678	dalian,china
+nagoya	japan	2260000	35.15792	136.90448	nagoya,japan
+houston	usa	2242000	29.7589382	-95.3676973	houston,usa
+giza	egypt	2225000	30.0170059	31.2134513	giza,egypt
+medellin	colombia	2223000	6.2443382	-75.5735529	medellin,colombia
+khartoum	sudan	2208000	15.593325	32.53565	khartoum,sudan
+ningbo	china	2201000	29.8720259	121.549887	ningbo,china
+guayaquil	ecuador	2196000	-2.1704142	-79.9050239843	guayaquil,ecuador
+tashkent	uzbekistan	2180000	41.3123363	69.2787079	tashkent,uzbekistan
+paris	france	2113000	48.8566101	2.3514992	paris,france
+brasilia	brazil	2089000	-10.3333332	-53.1999999	brasilia,brazil
+lanzhou	china	2088000	36.0603476	103.8330001	lanzhou,china
+changzhou	china	2086000	31.8130816	119.9693166	changzhou,china
+monterrey	mexico	2057000	25.63978365	-100.293101529	monterrey,mexico
+baku	azerbaijan	2040000	40.3754289	49.8328549	baku,azerbaijan
+kowloon	china	2020000	22.32050285	114.184292882	kowloon,china
+bucharest	romania	1994000	44.4361414	26.1027202	bucharest,romania
+medan	indonesia	1990000	3.5896654	98.6738261	medan,indonesia
+tangshan	china	1980000	39.6296509	118.1739336	tangshan,china
+jilin	china	1953000	42.9995032	125.9816054	jilin,china
+nanchong	china	1950000	30.7955696	106.0835539	nanchong,china
+conakry	guinea	1931000	9.5170602	-13.6998433	conakry,guinea
+amman	jordan	1919000	31.9515694	35.9239625	amman,jordan
+indore	india	1912000	22.7203851	75.8682103	indore,india
+sapporo	japan	1906000	43.044768	141.337215	sapporo,japan
+jinan	china	1900000	36.6507007	117.1140042	jinan,china
+puebla	mexico	1888000	18.833333	-97.9999999	puebla,mexico
+haiphong	vietnam	1885000	20.858864	106.6749591	haiphong,vietnam
+macheng	china	1880000	31.178861	115.0302282	macheng,china
+curitiba	brazil	1851000	-25.4295696	-49.2712361	curitiba,brazil
+nanchang	china	1844000	28.6792695	115.8885987	nanchang,china
+minsk	belarus	1831000	53.902334	27.5618791	minsk,belarus
+xuzhou	china	1830000	34.2665541	117.1809741	xuzhou,china
+kuala lumpur	malaysia	1810000	3.1570976	101.7009528	kuala lumpur,malaysia
+bamako	mali	1809000	12.649319	-8.0003369	bamako,mali
+huzhou	china	1800000	30.8899355	120.0870426	huzhou,china
+patna	india	1800000	25.6093239	85.1235252	patna,india
+suzhou anhui	china	1800000	33.6222724	116.985721	suzhou anhui,china
+urumqi	china	1800000	43.419754	87.319461	urumqi,china
+yantai	china	1800000	37.5340488	121.389463	yantai,china
+maracaibo	venezuela	1799000	10.6412212	-71.6075382	maracaibo,venezuela
+tianmen	china	1790000	30.6515905	113.1603424	tianmen,china
+hamburg	germany	1775000	53.5437641	10.0099133	hamburg,germany
+shantou	china	1770000	23.34189025	116.567257609	shantou,china
+basrah	iraq	1760000	30.4952367	47.8090981	basrah,iraq
+hefei	china	1750000	31.8228094	117.2218033	hefei,china
+tengzhou	china	1750000	35.113997	117.1599113	tengzhou,china
+wuxi	china	1750000	31.5756347	120.2954534	wuxi,china
+sanaa	yemen	1747000	15.342101	44.2005197	sanaa,yemen
+manaus	brazil	1739000	-3.1319514	-59.9864061	manaus,brazil
+fuyang	china	1720000	30.0533359	119.9544299	fuyang,china
+budapest	hungary	1712000	47.4983815	19.0404707	budapest,hungary
+warsaw	poland	1712000	52.2319237	21.0067265	warsaw,poland
+mecca	saudi arabia	1700000	21.4260221	39.8296538	mecca,saudi arabia
+ecatepec	mexico	1688000	19.4267075	-98.9862903	ecatepec,mexico
+tripoli	libya	1683000	32.896672	13.1777923	tripoli,libya
+vienna	austria	1681000	48.2083537	16.3725042	vienna,austria
+suizhou	china	1680000	31.7177962	113.3634633	suizhou,china
+barcelona	spain	1673000	41.3825596	2.1771353	barcelona,spain
+damascus	syria	1670000	33.5130695	36.3095814	damascus,syria
+agra	india	1650000	27.1752554	78.0098161	agra,india
+gaozhou	china	1650000	28.1293002	118.074355	gaozhou,china
+taian	china	1650000	36.2002968	117.0809316	taian,china
+quito	ecuador	1648000	-0.220164	-78.5123273	quito,ecuador
+tianshui	china	1630000	34.62845105	105.529798021	tianshui,china
+montreal	canada	1621000	45.4972159	-73.6103641	montreal,canada
+nashik	india	1620000	20.2217236	74.1136047895	nashik,india
+shangqiu	china	1610000	34.417097	115.6508622	shangqiu,china
+accra	ghana	1605000	5.5600141	-0.2057436	accra,ghana
+perth	australia	1603000	-31.952712	115.8604796	perth,australia
+harare	zimbabwe	1600000	-17.8317729	31.045686	harare,zimbabwe
+palembang	indonesia	1600000	-2.9888296	104.756857	palembang,indonesia
+santa cruz	bolivia	1595000	-11.0997559	-68.9609061	santa cruz,bolivia
+esfahan	iran	1584000	32.6707877	51.6650002	esfahan,iran
+guadalajara	mexico	1580000	20.676143	-103.3469981	guadalajara,mexico
+phoenix	usa	1568000	33.4485866	-112.0773455	phoenix,usa
+recife	brazil	1561000	-8.064193	-34.8781516	recife,brazil
+neijiang	china	1560000	29.5892089	105.0581721	neijiang,china
+rawalpindi	pakistan	1558000	33.5991484	73.0641002	rawalpindi,pakistan
+tangerang	indonesia	1545000	-6.172703	106.6408501	tangerang,indonesia
+brisbane	australia	1544000	-27.4689681	153.0234991	brisbane,australia
+philadelphia	usa	1540000	39.9523993	-75.1635898	philadelphia,usa
+kobe	japan	1534000	34.6932379	135.1943764	kobe,japan
+hechuan	china	1530000	29.9969268	106.2605768	hechuan,china
+kaohsiung	taiwan	1530000	22.6203348	120.3120375	kaohsiung,taiwan
+tshwane	south africa	1530000	-25.7451739	28.18707	tshwane,south africa
+pretoria	south africa	1530000	-25.7451739	28.18707	pretoria,south africa
+taizhou	china	1528000	32.4849554	119.9117284	taizhou,china
+algiers	algeria	1520000	28.0000272	2.9999825	algiers,algeria
+la paz	bolivia	1517000	-16.4954328	-68.1331732	la paz,bolivia
+pimpri chinchwad	india	1515000	18.6279288	73.8009829	pimpri chinchwad,india
+barquisimeto	venezuela	1500000	10.0740372	-69.3215666	barquisimeto,venezuela
+guigang	china	1500000	23.099092	109.60844	guigang,china
+kumasi	ghana	1500000	6.698081	-1.6230403	kumasi,ghana
+luoyang	china	1500000	34.6556873	112.4209629	luoyang,china
+mogadishu	somalia	1500000	2.042778	45.338564	mogadishu,somalia
+vadodara	india	1500000	22.3177543	73.3625409447	vadodara,india
+quanzhou	china	1490000	25.22314005	118.149366456	quanzhou,china
+tbilisi	georgia	1490000	41.6935247	44.8015019	tbilisi,georgia
+tijuana	mexico	1484000	32.5008626	-116.9641656	tijuana,mexico
+xintai	china	1480000	35.9068588	117.76243	xintai,china
+nanan	china	1480000	24.9626585	118.3801869	nanan,china
+ouagadougou	burkina faso	1475000	12.368148	-1.5270849	ouagadougou,burkina faso
+benghazi	libya	1471000	32.117076	20.0670036	benghazi,libya
+kyoto	japan	1466000	35.0185804	135.763835	kyoto,japan
+kharkiv	ukraine	1461000	49.9902794	36.2303893	kharkiv,ukraine
+kaduna	nigeria	1460000	10.3825318	7.8533226	kaduna,nigeria
+xinyang	china	1460000	32.127372	114.0676596	xinyang,china
+bhopal	india	1458000	23.2530923	77.3962718	bhopal,india
+rugao	china	1453000	32.3926766	120.563809	rugao,china
+anyang	china	1450000	36.1023552	114.33633	anyang,china
+fukuoka	japan	1450000	33.6251241	130.6180016	fukuoka,japan
+weifang	china	1450000	36.5159639	119.06118775	weifang,china
+zhanjiang	china	1450000	21.2021916	110.4045975	zhanjiang,china
+hyderabad	pakistan	1447000	25.3801017	68.3750376	hyderabad,pakistan
+fushun	china	1445000	41.8866162	123.9479581	fushun,china
+daejeon	south korea	1443000	36.3326329	127.3845762	daejeon,south korea
+qiqihaer	china	1439000	47.3527088	123.9115944	qiqihaer,china
+jianyang	china	1430000	30.3915544	104.5532107	jianyang,china
+yaoundÉ	cameroon	1430000	3.8689867	11.5213344	yaoundÉ,cameroon
+multan	pakistan	1424000	30.197721	71.4736279	multan,pakistan
+almaty	kazakhstan	1420000	43.21984255	76.9183518875	almaty,kazakhstan
+guiping	china	1420000	23.4018793	110.0488367	guiping,china
+huazhou	china	1420000	21.6516763	110.6404799	huazhou,china
+kampala	uganda	1420000	0.3177137	32.5813539	kampala,uganda
+tabriz	iran	1420000	38.0773948	46.2891614	tabriz,iran
+gujranwala	pakistan	1416000	32.1990827	74.1814116	gujranwala,pakistan
+gwangju	south korea	1415000	35.1491083	126.8634645	gwangju,south korea
+belem	brazil	1409000	-1.4505599	-48.4682452	belem,brazil
+sofia	bulgaria	1403000	42.6977211	23.3225964	sofia,bulgaria
+bursa	turkey	1400000	40.1827061	29.0667635	bursa,turkey
+changde	china	1400000	29.040525	111.6781103	changde,china
+ciudad juarez	mexico	1400000	31.6546528	-106.4291101	ciudad juarez,mexico
+ludhiana	india	1400000	30.79197145	75.8929202567	ludhiana,india
+tongzhou	china	1400000	39.8954021	116.6751209	tongzhou,china
+novosibirsk	russia	1396000	55.0282215	82.9234476	novosibirsk,russia
+semarang	indonesia	1393000	-6.9904037	110.4229455	semarang,indonesia
+handan	china	1390000	36.583333	114.483333	handan,china
+kawasaki	japan	1390000	35.523142	139.708024	kawasaki,japan
+suining	china	1385000	30.5061493	105.574542	suining,china
+douala	cameroon	1382000	4.0537386	9.6644365792	douala,cameroon
+karaj	iran	1380000	35.8150372	51.003579	karaj,iran
+liuyang	china	1380000	28.1504849	113.6252406	liuyang,china
+luzhou	china	1380000	28.8871236	105.4463439	luzhou,china
+caloocan	philippines	1379000	14.6571285	120.984107	caloocan,philippines
+thane	india	1375000	19.1943294	72.9701779	thane,india
+varanasi	india	1375000	25.38029175	82.9388210881	varanasi,india
+hanoi	vietnam	1372000	21.0292095	105.85247	hanoi,vietnam
+munich	germany	1367000	48.1371079	11.5753822	munich,germany
+davao city	philippines	1363000	7.22650725	125.454887691	davao city,philippines
+porto alegre	brazil	1355000	-30.0329999	-51.2304999	porto alegre,brazil
+taixing	china	1355000	32.1696072	120.0160999	taixing,china
+bozhou	china	1352000	33.8601432	115.7833234	bozhou,china
+san antonio	usa	1351000	29.4246002	-98.4951404	san antonio,usa
+jinjiang	china	1350000	24.8158786	118.5758761	jinjiang,china
+lufeng	china	1350000	22.9455881	115.6407142	lufeng,china
+yongcheng	china	1347000	33.937026	116.3663081	yongcheng,china
+guilin	china	1340000	25.2815358	110.2912331	guilin,china
+pingdu	china	1340000	36.7865116	119.953212	pingdu,china
+ahwaz	iran	1338000	31.3113755	48.6789576	ahwaz,iran
+rajkot	india	1336000	22.3409469	70.7860061733	rajkot,india
+santiago de los caballeros	dominican republic	1329000	19.4502926	-70.6906111	santiago de los caballeros,dominican republic
+montevideo	uruguay	1326000	-34.9059038	-56.1913568	montevideo,uruguay
+ekaterinburg	russia	1323000	56.8391034	60.6082502	ekaterinburg,russia
+baotou	china	1318000	40.660201	109.8303243	baotou,china
+cordoba	argentina	1310000	-32.096736	-63.7940922	cordoba,argentina
+milan	italy	1302000	45.4667971	9.1904984	milan,italy
+lianjiang	china	1300000	21.7285518	110.0384997	lianjiang,china
+medina	saudi arabia	1300000	24.54855915	39.630658369	medina,saudi arabia
+mianyang	china	1300000	31.458932	104.750108	mianyang,china
+yiyang	china	1300000	28.5874116	112.3517104	yiyang,china
+barranquilla	colombia	1298000	11.01184845	-74.808645983	barranquilla,colombia
+irbil	iraq	1294000	36.5349312	44.2534471	irbil,iraq
+adelaide	australia	1290000	-34.9274283	138.599899	adelaide,australia
+anshan	china	1290000	40.78195365	122.789233036	anshan,china
+ranchi	india	1290000	23.14064535	85.3732723226	ranchi,india
+rizhao	china	1290000	35.3979052	119.5290707	rizhao,china
+guarulhos	brazil	1283000	-23.4430601	-46.5244589	guarulhos,brazil
+goiania	brazil	1282000	-16.6808819	-49.253269	goiania,brazil
+dallas	usa	1280000	32.7762719	-96.7968558	dallas,usa
+heze	china	1280000	35.2477266	115.4464761	heze,china
+san diego	usa	1280000	32.7174209	-117.1627713	san diego,usa
+meerut	india	1277000	28.916667	77.683333	meerut,india
+la matanza	argentina	1255000	-26.6108314	-60.2441793	la matanza,argentina
+datong	china	1253000	40.0899001	113.2884836	datong,china
+beirut	lebanon	1250000	33.8959203	35.47843	beirut,lebanon
+fengcheng	china	1250000	28.1964717	115.7859073	fengcheng,china
+ruian	china	1250000	27.778019	120.6251941	ruian,china
+laiwu	china	1249000	36.2138623	117.6699251	laiwu,china
+maputo	mozambique	1244000	-25.9662129	32.56745	maputo,mozambique
+phnom penh	cambodia	1242000	11.568271	104.9224426	phnom penh,cambodia
+prague	czech republic	1242000	50.0874654	14.4212503	prague,czech republic
+pingdingshan	china	1230000	33.7378279	113.2975031	pingdingshan,china
+yuzhou	china	1230000	34.1598968	113.4666612	yuzhou,china
+shiraz	iran	1228000	29.6067651	52.5375663	shiraz,iran
+cixi	china	1220000	30.183333	121.233333	cixi,china
+allahabad	india	1215000	25.2859603	81.8967320695	allahabad,india
+huainan	china	1201000	32.6485089	117.0107368	huainan,china
+anqiu	china	1200000	36.4215609	119.2011433	anqiu,china
+fuqing	china	1200000	23.3268	109.679	fuqing,china
+maiduguri	nigeria	1200000	11.8395257	13.1536509	maiduguri,nigeria
+pikine-guediawaye	senegal	1200000	14.76722375	-17.397343825	pikine-guediawaye,senegal
+tegucigalpa	honduras	1200000	14.0931919	-87.201263	tegucigalpa,honduras
+tunis	tunisia	1200000	33.8439408	9.400138	tunis,tunisia
+valencia	venezuela	1200000	10.1828036	-68.0035529	valencia,venezuela
+amritsar	india	1195000	31.5681791	74.9812719063	amritsar,india
+qianjiang	china	1190000	30.4260075	112.8890965	qianjiang,china
+bazhong	china	1186000	31.8587495	106.7526106	bazhong,china
+managua	nicaragua	1185000	12.1461244	-86.2737169	managua,nicaragua
+saitama	japan	1183000	36.0183923	139.281463788	saitama,japan
+belgrade	serbia	1182000	44.8178787	20.4568089	belgrade,serbia
+hiroshima	japan	1174000	34.3916058	132.4518156	hiroshima,japan
+dongtai	china	1170000	32.8536216	120.3122464	dongtai,china
+ujung pandang	indonesia	1170000	0.7643106	120.6703871	ujung pandang,indonesia
+aurangabad	india	1168000	20.0328377	75.1589513219	aurangabad,india
+adana	turkey	1162000	37.003277	35.3261219	adana,turkey
+guangyuan	china	1160000	32.441842	105.8323505	guangyuan,china
+qidong	china	1160000	31.8127933	121.656138	qidong,china
+rosario	argentina	1160000	-32.9595003	-60.6615414	rosario,argentina
+samara	russia	1160000	53.1986275	50.113988	samara,russia
+zapopan	mexico	1155000	20.7211036	-103.3911246	zapopan,mexico
+nezahualcoyotl	mexico	1141000	19.4325047	-99.0352119928	nezahualcoyotl,mexico
+lubumbashi	congo	1140000	-11.6429113	27.5426004	lubumbashi,congo
+mosul	iraq	1139000	36.34585235	43.0990175329	mosul,iraq
+leon	mexico	1138000	35.5707378	-107.6008049	leon,mexico
+omsk	russia	1137000	54.9913752	73.3714883	omsk,russia
+solapur	india	1134000	17.8337784	75.299413311	solapur,india
+brazzaville	congo	1133000	-4.2694406	15.2712256	brazzaville,congo
+bijie	china	1130000	27.3001269	105.3023495	bijie,china
+haicheng	china	1130000	40.8518336	122.7433343	haicheng,china
+madurai	india	1130000	9.9261153	78.1140983	madurai,india
+ulsan	south korea	1127000	35.5487857	129.252024	ulsan,south korea
+leshan	china	1120000	29.5608755	103.7619922	leshan,china
+jabalpur	india	1117000	23.3288622	80.1072871014	jabalpur,india
+kazan	russia	1115000	55.76041925	49.1902944738	kazan,russia
+makasar	indonesia	1113000	-6.2707264	106.889122486	makasar,indonesia
+jimo	china	1112000	36.3912177	120.4502879	jimo,china
+jining	china	1110000	35.4125047	116.5849266	jining,china
+lusaka	zambia	1110000	-15.4166966	28.2813812	lusaka,zambia
+ulaanbaatar	mongolia	1108000	47.949809	106.966724194	ulaanbaatar,mongolia
+yerevan	armenia	1108000	40.1776121	44.5125849	yerevan,armenia
+donetsk	ukraine	1100000	48.0158753	37.8013407	donetsk,ukraine
+peshawar	pakistan	1100000	34.0123846	71.5787458	peshawar,pakistan
+wafangdian	china	1100000	39.6304711	121.999975	wafangdian,china
+copenhagen	denmark	1096000	55.6867243	12.5700724	copenhagen,denmark
+chelyabinsk	russia	1092000	55.1598408	61.4025547	chelyabinsk,russia
+guatemala city	guatemala	1090000	14.6417889	-90.5132238	guatemala city,guatemala
+shouguang	china	1090000	36.8762356	118.7322549	shouguang,china
+dubai	uae	1089000	25.2683521	55.2961962	dubai,uae
+suwon	south korea	1087000	37.2649962	127.0007981	suwon,south korea
+port-au-prince	haiti	1083000	18.547327	-72.3395927	port-au-prince,haiti
+odessa	ukraine	1080000	46.4846583	30.732564	odessa,ukraine
+goyang	south korea	1073000	37.6707416	126.8240308	goyang,south korea
+seongnam	south korea	1073000	37.4201556	127.1262092	seongnam,south korea
+marrakech	morocco	1071000	31.6259901	-7.9886082	marrakech,morocco
+taishan	china	1070000	22.2541202	112.7884998	taishan,china
+rostov on don	russia	1068000	47.2249135	39.7022756	rostov on don,russia
+dhanbad	india	1065000	23.8437824	86.5845469329	dhanbad,india
+taichung	taiwan	1065000	24.163162	120.6478282	taichung,taiwan
+ezhou	china	1064000	30.4062244	114.880141	ezhou,china
+campinas	brazil	1059000	-22.9055599	-47.0608299	campinas,brazil
+faridabad	india	1055000	28.18325055	77.3485070627	faridabad,india
+jiangdu	china	1053000	32.4609493	119.5729419	jiangdu,china
+benin	nigeria	1051000	6.3330586	5.6221058	benin,nigeria
+beiliu	china	1050000	22.4427933	110.5314264	beiliu,china
+gongzhuling	china	1050000	43.5025009	124.8127196	gongzhuling,china
+changshu	china	1048000	31.6434085	120.7408552	changshu,china
+qom	iran	1042000	34.6423134	50.8799831	qom,iran
+dnipropetrovsk	ukraine	1040000	48.4680221	35.0417711	dnipropetrovsk,ukraine
+freetown	sierra leone	1032000	8.479004	-13.2679499	freetown,sierra leone
+sendai	japan	1032000	38.2661528	140.8715343	sendai,japan
+dakar	senegal	1031000	14.693425	-17.4479379	dakar,senegal
+ufa	russia	1023000	54.7262869	55.9477285	ufa,russia
+fuzhou	china	1020000	26.0771539	119.2914774	fuzhou,china
+jiangxi	china	1020000	28.0	116.0	jiangxi,china
+yichun	china	1020000	47.7211461	128.8799956	yichun,china
+birmingham	uk	1017000	52.4776875	-1.8948515	birmingham,uk
+mudanjiang	china	1014000	44.5791431	129.611807	mudanjiang,china
+volgograd	russia	1012000	48.7106765	44.5168022	volgograd,russia
+perm	russia	1010000	58.0149643	56.2467244	perm,russia
+fes	morocco	1009000	34.0341156	-5.0133549	fes,morocco
+haora	india	1008000	22.75	88.25	haora,india
+jodhpur	india	1007000	26.2988908	73.0333642	jodhpur,india
+san jose	usa	1007000	37.3361905	-121.8905832	san jose,usa
+torreon	mexico	1001000	25.542698	-103.4105129	torreon,mexico
+mexicali	mexico	1000000	32.6200699	-115.4440697	mexicali,mexico
+baoding	china	997000	39.09109015	115.334623873	baoding,china
+cologne	germany	995000	50.938361	6.959974	cologne,germany
+hezhou	china	990000	24.415373	111.5435723	hezhou,china
+calgary	canada	988000	51.02532675	-114.049868389	calgary,canada
+sao luis	brazil	987000	-2.5319223	-44.2933275	sao luis,brazil
+kitakyushu	japan	985000	33.881691	130.866	kitakyushu,japan
+sao goncalo	brazil	973000	-22.8219013	-43.0309251	sao goncalo,brazil
+ghaziabad	india	970000	28.6711527	77.4120356	ghaziabad,india
+visakhapatnam	india	970000	17.7231276	83.3012842	visakhapatnam,india
+wujiang	china	970000	24.800833	113.576944	wujiang,china
+naples	italy	963000	40.8359336	14.2487826	naples,italy
+chiba	japan	962000	35.3594614	140.189299949	chiba,japan
+mandalay	myanmar	961000	21.9812746	96.082375	mandalay,myanmar
+mandalay	burma	0	21.9812746	96.082375	mandalay,burma
+feicheng	china	960000	36.1841443	116.7653466	feicheng,china
+brussels	belgium	958000	50.8465565	4.351697	brussels,belgium
+vijayawada	india	957000	16.5087586	80.6185102	vijayawada,india
+haimen	china	950000	31.8729183	121.1771295	haimen,china
+kathmandu	nepal	949000	27.7087963	85.3202438	kathmandu,nepal
+ciudad guayana	venezuela	940000	8.3389155	-62.7132655	ciudad guayana,venezuela
+safi	morocco	933000	32.24975545	-8.9939394394	safi,morocco
+coimbatore	india	931000	11.0018115	76.9628425	coimbatore,india
+gaziantep	turkey	927000	37.0611756	37.3793085	gaziantep,turkey
+weinan	china	925000	34.5037437	109.4572848	weinan,china
+soweto	south africa	923000	-26.2227777	27.89	soweto,south africa
+maceio	brazil	922000	-9.6476842	-35.7339263	maceio,brazil
+agadir	morocco	921000	30.4211631	-9.5830754	agadir,morocco
+krasnoyarsk	russia	920000	56.0082657	92.8706219	krasnoyarsk,russia
+srinagar	india	915000	34.0747444	74.8204443	srinagar,india
+detroit	usa	912000	42.3486635	-83.0567374	detroit,usa
+turin	italy	910000	45.0677551	7.6824892	turin,italy
+arequipa	peru	905000	-16.3333329	-71.4999999	arequipa,peru
+songzi	china	905000	30.1757837	111.7770205	songzi,china
+salé	morocco	904000	34.01567785	-6.7567992189	salé,morocco
+antananarivo	madagascar	903000	-18.9100121	47.5255809	antananarivo,madagascar
+laizhou	china	902000	37.1823043	119.9325123	laizhou,china
+chandigarh	india	901000	30.7204507	76.7669704	chandigarh,india
+zaria	nigeria	898000	11.1134917	7.7188449	zaria,nigeria
+abu dhabi	uae	897000	24.4747961	54.3705762	abu dhabi,uae
+cartagena	colombia	893000	10.4195841	-75.5271223	cartagena,colombia
+teresina	brazil	893000	-5.0896402	-42.8095879	teresina,brazil
+danyang	china	890000	32.0109736	119.6012702	danyang,china
+sholapur	india	890000	17.6992332	75.8684776	sholapur,india
+hengyang	china	880000	26.8949894	112.6024687	hengyang,china
+honghu	china	880000	29.8205533	113.462118	honghu,china
+mombasa	kenia	880000	-4.0390145	39.6483909619	mombasa,kenia
+daye	china	874000	30.0970622	114.9767547	daye,china
+bogor	indonesia	866000	-6.5962985	106.7972421	bogor,indonesia
+lilongwe	malawi	866000	-13.9734559	33.7878122	lilongwe,malawi
+duque de caxias	brazil	864000	-22.7896224	-43.3099289	duque de caxias,brazil
+khulna	bangladesh	856000	22.8216956	89.5529444	khulna,bangladesh
+marseille	france	852000	43.2961743	5.3699525	marseille,france
+bucheon	south korea	850000	37.5036869	126.7661004	bucheon,south korea
+norfolk	usa	850000	36.8889933	-76.2481623	norfolk,usa
+panama city	panama	850000	8.9714493	-79.5341801	panama city,panama
+voronezh	russia	849000	51.6548797	39.212949	voronezh,russia
+nova iguacu	brazil	846000	-22.7592174	-43.4508727	nova iguacu,brazil
+sakai	japan	836000	34.529124	135.50156	sakai,japan
+port elizabeth	south africa	833000	-33.961705	25.6207519	port elizabeth,south africa
+saratov	russia	831000	51.530018	46.0346846	saratov,russia
+benxi	china	830000	41.2922207	123.7594197	benxi,china
+haikou	china	830000	20.0423626	110.3409936	haikou,china
+stockholm	sweden	826000	59.3251172	18.0710935	stockholm,sweden
+hims	syria	823000	34.7333334	36.7166667	hims,syria
+kermanshah	iran	823000	34.3239414	47.0735864	kermanshah,iran
+naucalpan	mexico	822000	19.4222611	-98.986601	naucalpan,mexico
+hamhung	north korea	821000	40.0087592	127.653609698	hamhung,north korea
+hohhot	china	820000	40.8337963	111.6730788	hohhot,china
+padang	indonesia	820000	-0.9524784	100.3632419	padang,indonesia
+hamamatsu	japan	815000	34.7109786	137.7259431	hamamatsu,japan
+ottawa	canada	815000	45.4210328	-75.6900218	ottawa,canada
+ad-dammam	saudi arabia	813000	26.3	49.716667	ad-dammam,saudi arabia
+dammam	saudi arabia	812000	26.4367824	50.1039991	dammam,saudi arabia
+niigata	japan	812000	37.645058	138.7674345	niigata,japan
+liuzhou	china	810000	24.3213044	109.4066186	liuzhou,china
+thiruvananthapuram	india	810000	8.5058909	76.9570481	thiruvananthapuram,india
+valencia	spain	810000	39.4699014	-0.3759512	valencia,spain
+bengbu	china	809000	32.9181597	117.3678101	bengbu,china
+san francisco	usa	809000	37.7792808	-122.4192362	san francisco,usa
+guwahati	india	808000	26.1805978	91.753943	guwahati,india
+jacksonville	usa	808000	30.3321838	-81.6556509	jacksonville,usa
+santiago de queretaro	mexico	805000	20.5878372	-100.3879903	santiago de queretaro,mexico
+zagreb	croatia	804000	45.8131545	15.9770298	zagreb,croatia
+astana	kazakhstan	803000	51.15092055	71.4388595155	astana,kazakhstan
+kolwezi	congo d.r.	803000	-10.7181773	25.4669623	kolwezi,congo d.r.
+hubli	india	801000	15.3518378	75.1379848	hubli,india
+daqing	china	800000	46.5969028	125.1014811	daqing,china
+nanyang	china	800000	33.0010496	112.5292693	nanyang,china
+mysore	india	799000	12.3051828	76.6553609	mysore,india
+indianapolis	usa	798000	39.7683331	-86.1583501	indianapolis,usa
+natal	brazil	790000	-5.8053979	-35.2080904	natal,brazil
+chisinau	moldova	785000	47.0122737	28.8605936	chisinau,moldova
+toluca	mexico	785000	19.292545	-99.6569006	toluca,mexico
+lodz	poland	783000	51.7687323	19.4569911	lodz,poland
+sao bernardo do campo	brazil	783000	-23.690102	-46.5629623	sao bernardo do campo,brazil
+zaporizhzhya	ukraine	782000	47.4165079	35.922969	zaporizhzhya,ukraine
+abuja	nigeria	779000	9.0643305	7.4892974	abuja,nigeria
+leeds	uk	778000	53.7974185	-1.543794	leeds,uk
+masqat-matrah	oman	776000	23.6214548	58.5985294	masqat-matrah,oman
+tainan	taiwan	769000	22.9912479	120.1848844	tainan,taiwan
+bishkek	kyrgyzstan	765000	42.8767446	74.6069949	bishkek,kyrgyzstan
+jerusalem	israel	764000	31.78911765	35.2229730135	jerusalem,israel
+amsterdam	netherlands	762000	52.3745403	4.8979755056	amsterdam,netherlands
+jixi	china	760000	45.299152	130.9681246	jixi,china
+tiruchchirappalli	india	760000	10.8067917	78.7039861	tiruchchirappalli,india
+athens	greece	757000	37.9841493	23.7279843	athens,greece
+krakow	poland	755000	50.0619474	19.9368564	krakow,poland
+cebu city	philippines	747000	10.3090298	123.8930839	cebu city,philippines
+ankang	china	743000	32.7330178	108.9903977	ankang,china
+bandar lampung	indonesia	743000	-5.4460712	105.2643742	bandar lampung,indonesia
+malang	indonesia	742000	-7.9771205	112.6340291	malang,indonesia
+lviv	ukraine	740000	49.841952	24.0315921	lviv,ukraine
+merida	mexico	734000	20.9671405	-89.6236999	merida,mexico
+edmonton	canada	730000	53.5343609	-113.5065084	edmonton,canada
+ogbomosho	nigeria	726000	8.133	4.25	ogbomosho,nigeria
+riga	latvia	725000	56.9716562	24.1665986021	riga,latvia
+acapulco	mexico	718000	16.8602906	-99.876832	acapulco,mexico
+shizuoka	japan	718000	34.8566552	138.4855544	shizuoka,japan
+columbus	usa	714000	39.9622601	-83.0007064	columbus,usa
+jalandhar	india	714000	31.29694945	75.5592634064	jalandhar,india
+xining	china	713000	36.6219037	101.7729898	xining,china
+krasnodar	russia	710000	45.0354329	38.9757116	krasnodar,russia
+la plata	argentina	710000	-34.9206796	-57.9537637	la plata,argentina
+tangier	morocco	710000	35.777103	-5.8037919	tangier,morocco
+sevilla	spain	704000	37.3886303	-5.995317	sevilla,spain
+joao pessoa	brazil	702000	-7.121598	-34.8820279	joao pessoa,brazil
+okayama	japan	700000	34.711796	133.924663	okayama,japan
+chihuahua	mexico	694000	28.5000001	-106.0	chihuahua,mexico
+fuxin	china	690000	42.0151733	121.6452868	fuxin,china
+gwalior	india	690000	26.2	78.2	gwalior,india
+jinzhou	china	690000	41.108528	121.1194219	jinzhou,china
+san luis potosi	mexico	685000	22.5000001	-100.5	san luis potosi,mexico
+tlalnepantla de baz	mexico	685000	19.5464752	-99.189914093	tlalnepantla de baz,mexico
+palermo	italy	684000	38.11127	13.3534422	palermo,italy
+oran	algeria	683000	35.7032751	-0.6492975	oran,algeria
+austin	usa	681000	30.2711286	-97.7436994	austin,usa
+aligarh	india	680000	27.88107785	78.0622745112	aligarh,india
+dushanbe	tajikistan	680000	38.5762757	68.786394	dushanbe,tajikistan
+zhangjiakou	china	680000	40.8522392	115.226232145	zhangjiakou,china
+amravati	india	678000	21.15785775	77.6371856782	amravati,india
+bulawayo	zimbabwe	676000	-20.1053947	28.5426856	bulawayo,zimbabwe
+durban	south africa	670000	-29.8618249	31.009909	durban,south africa
+memphis	usa	670000	35.1490215	-90.0516284	memphis,usa
+baltimore	usa	667000	39.2908816	-76.6107589	baltimore,usa
+frankfurt	germany	665000	50.110653	8.682093	frankfurt,germany
+aguascalientes	mexico	664000	22.0000001	-102.5	aguascalientes,mexico
+bhubaneswar	india	659000	20.2603328	85.8393432	bhubaneswar,india
+bangui	central african republic	652000	4.3907153	18.5509126	bangui,central african republic
+colombo	sri lanka	650000	6.9349969	79.853845	colombo,sri lanka
+kingston	jamaica	650000	17.9712148	-76.7928127	kingston,jamaica
+jamshedpur	india	630000	22.8015194	86.2029579	jamshedpur,india
+rabat	morocco	627000	34.0224046	-6.8345426	rabat,morocco
+nashville	usa	626000	36.1622296	-86.774353	nashville,usa
+boston	usa	621000	42.3604823	-71.0595677	boston,usa
+sao jose dos campos	brazil	611000	-23.180501	-45.8872968	sao jose dos campos,brazil
+cochabamba	bolivia	608000	-17.3935418	-66.1570138	cochabamba,bolivia
+milwaukee	usa	604000	43.0349931	-87.9224969	milwaukee,usa
+stuttgart	germany	600000	48.7784485	9.1800132	stuttgart,germany
+washington dc	usa	600000	38.8949549	-77.0366455	washington dc,usa
+rotterdam	netherlands	590000	51.92779805	4.4886232693	rotterdam,netherlands
+dortmund	germany	584000	51.5142273	7.4652789	dortmund,germany
+kaifeng	china	584000	34.7961106	114.3472038	kaifeng,china
+oslo	norway	584000	59.9132694	10.7391112	oslo,norway
+denver	usa	583000	39.7391536	-104.9847033	denver,usa
+helsinki	finland	583000	60.1674086	24.9425683	helsinki,finland
+glasgow	uk	581000	55.856656	-4.2435816	glasgow,uk
+essen	germany	580000	51.457087	7.011429	essen,germany
+vancouver	canada	580000	49.2608944	-123.1139382	vancouver,canada
+seattle	usa	578000	47.6038321	-122.3300623	seattle,usa
+culiacan	mexico	567000	24.8017193	-107.3930506	culiacan,mexico
+bhilai	india	564000	21.2120677	81.3732849	bhilai,india
+hengyang	china	561000	26.8949894	112.6024687	hengyang,china
+charlotte	usa	559000	35.2270869	-80.8431267	charlotte,usa
+las vegas	usa	558000	36.1662859	-115.1492249	las vegas,usa
+lisbon	portugal	558000	38.7077926	-9.136506	lisbon,portugal
+oklahoma city	usa	551000	35.4729886	-97.5170535	oklahoma city,usa
+kitwe	zambia	548000	-12.8104185	28.2068361	kitwe,zambia
+bremen	germany	547000	53.0758196	8.8071646	bremen,germany
+ribeirao preto	brazil	547000	-21.1783329	-47.806667	ribeirao preto,brazil
+asuncion	paraguay	546000	-25.2959915	-57.6311195	asuncion,paraguay
+vilnius	lithuania	545000	54.6870458	25.2829111	vilnius,lithuania
+monrovia	liberia	543000	6.328034	-10.7977879	monrovia,liberia
+bucaramanga	colombia	542000	7.16666325	-73.1044765706	bucaramanga,colombia
+portland	usa	542000	45.5202471	-122.6741948	portland,usa
+tucson	usa	542000	32.2217422	-110.9264758	tucson,usa
+atlanta	usa	538000	33.7490987	-84.3901848	atlanta,usa
+sheffield	uk	535000	53.3806626	-1.4702277	sheffield,uk
+surakarta	indonesia	533000	-7.5692461	110.828448	surakarta,indonesia
+scotland	uk	0	56.7861112	-4.1140517	scotland,uk
+ireland	uk	0	52.865196	-7.9794598	ireland,uk
+england	uk	0	52.7954791	-0.540240236617	england,uk
+new orleans	usa	0	29.9499323	-90.0701155	new orleans,usa
+polokwane	south africa	0	-23.9058332	29.4613889	polokwane,south africa
+port chester	usa	0	41.0017643	-73.6656833	port chester,usa
+ohio	usa	0	40.2253569	-82.6881394	ohio,usa
+texas	usa	0	31.8160381	-99.5120985	texas,usa
+iowa	usa	0	41.9216734	-93.3122704	iowa,usa
+bellevue	united states	0	47.6144219	-122.1923371	bellevue,united states
+florida	united states of america	0	27.7567667	-81.4639834	florida,united states of america
+d c	united states of america	0	38.89366125	-76.9878831539	d c,united states of america
+district of colombia	usa	0	38.89366125	-76.9878831539	district of colombia,usa
+essonne	france	0	48.53034015	2.23929180567	essonne,france
+san francisco	us	0	37.7792808	-122.4192362	san francisco,us
+california	us	0	36.7014631	-118.7559973	california,us
+NYC	usa	0	40.7305991	-73.9865811	NYC,usa
+new york city	usa	0	40.7305991	-73.9865811	new york city,usa
+new york	usa	0	40.7305991	-73.9865811	new york,usa
+NY	usa	0	40.7305991	-73.9865811	NY,usa
